@@ -1,0 +1,35 @@
+ <section class="my-16 grid lg:grid-cols-2 md:grid-cols-2 gap-7 container px-8 mx-auto pb-12">
+            <div class="bg-gray-300 lg:flex md:flex gap-7">
+                <div class="pt-3">
+                    <img src="./icons/image 12.svg" alt="">
+                </div>
+                <div class="pt-3">
+                    <h2 class="text-3xl font-bold">Find the Perfect Fit</h2>
+                    <p>Everybody is different, which is why we offer styles for every body.</p>
+                </div>
+            </div>
+            <div class="bg-gray-300 row-span-3">
+                <img src="./images/shopping.png" alt="">
+            </div>
+            <div class="bg-gray-300 lg:flex md:flex gap-7">
+                <div class="pt-3">
+                    <img src="./icons/image 13.svg" alt="">
+                </div>
+                <div class="pt-3">
+                    <h2 class="text-3xl font-bold">Free Exchanges</h2>
+                    <p>One of the many reasons you can shop
+                        with peace of mind.</p>
+                </div>
+            </div>
+            <div class="bg-gray-300 lg:flex md:flex gap-7">
+                <div class="pt-3">
+                    <img src="./icons/image 14.svg" alt="">
+                </div>
+                <div class="pt-3">
+                    <h2 class="text-3xl font-bold">Contact Our Seller</h2>
+                    <p>They are here to help you.
+                        That's quite literally what we pay
+                        them for.</p>
+                </div>
+            </div>
+        </section>
